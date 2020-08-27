@@ -25,7 +25,7 @@
     "buffer": "^4.5.1",
     "events": "^1.1.0",
     "html-entities": "^1.2.0",
-    "htmlparser2": "https://github.com/DTrran001/htmlparser2.git"
+    "htmlparser2": "https://github.com/fb55/htmlparser2.git",
   },
   "peerDependencies": {
     "prop-types": ">=15.5.10",
